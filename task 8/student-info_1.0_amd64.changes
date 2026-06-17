@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 17 Jun 2026 23:50:00 +0300
+Source: student-info
+Binary: student-info
+Architecture: source all
+Version: 1.0
+Distribution: stable
+Urgency: medium
+Maintainer: Shykhyev Sadiq <sadiq@localhost>
+Changed-By: Shykhyev Sadiq <sadiq@localhost>
+Description:
+ student-info - Small student information program
+Changes:
+ student-info (1.0) stable; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1:
+ bf59a8c47d9d4a2203305f43adcc781cc3164a72 538 student-info_1.0.dsc
+ 4188f141dc7ec99cda6f7caac75317e2f4ce3ed3 1751444 student-info_1.0.tar.xz
+ 98e53304253d714d315bb87fc6b29a82430a9898 1324 student-info_1.0_all.deb
+ c5ccb2ddd52d8aac4894ce11344eeed10b753dc4 6395 student-info_1.0_amd64.buildinfo
+Checksums-Sha256:
+ eb2c9c12ddfccc8fe87c8c75902b24797daacb5f0119799efd4b423b6c81240c 538 student-info_1.0.dsc
+ 3b1990fb59bae4eb388ac71d27d79c8f5495ce465378664fdcd2efe78e4c807e 1751444 student-info_1.0.tar.xz
+ f85b6df91a21c7f36f0381396633cf97285f331a189439b47904318b88778213 1324 student-info_1.0_all.deb
+ 87f92b85d6aefb263f83a1512a3c49996d8bcad876dbe4aa9c940aeec1977e4b 6395 student-info_1.0_amd64.buildinfo
+Files:
+ f818b28bd8eb63cab41d0ecd4920a946 538 utils optional student-info_1.0.dsc
+ 63ed8340c401fc448c19075eaf600081 1751444 utils optional student-info_1.0.tar.xz
+ 9571d52dddfb6510da8d174ddbbf2b94 1324 utils optional student-info_1.0_all.deb
+ 272a898aec04f8aba526f9f786964fe4 6395 utils optional student-info_1.0_amd64.buildinfo
